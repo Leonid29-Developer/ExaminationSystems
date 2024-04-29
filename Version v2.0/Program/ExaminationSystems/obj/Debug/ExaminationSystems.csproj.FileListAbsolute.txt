@@ -1,0 +1,29 @@
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\ExaminationSystems.exe.config
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\ExaminationSystems.exe
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\ExaminationSystems.pdb
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\Spire.Doc.dll
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\Spire.Doc.xml
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.AssemblyReference.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.Properties.Resources.resources
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.GenerateResource.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.CoreCompileInputs.cache
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.CopyComplete
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.exe
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\obj\Debug\ExaminationSystems.pdb
+S:\Курсs\4 курс\1 Семестр\Производственная практика\Test128\ExaminationSystems\ExaminationSystems\bin\Debug\Resources\TT.docx
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\Resources\TT.docx
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\ExaminationSystems.exe.config
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\ExaminationSystems.exe
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\ExaminationSystems.pdb
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\Spire.Doc.dll
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\bin\Debug\Spire.Doc.xml
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.Properties.Resources.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.csproj.CopyComplete
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.exe
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.pdb
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.AddOrder.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.StartForm.resources
+C:\Users\User\Desktop\Апрель 2024\Проекты\Производная Практика\#2\ExaminationSystems\obj\Debug\ExaminationSystems.Table.resources
